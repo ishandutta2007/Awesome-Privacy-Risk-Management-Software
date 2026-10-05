@@ -57,9 +57,9 @@ The table below lists top enterprise SaaS platforms sorted by company scale (est
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source privacy engineering, consent engines, and GRC tools sorted strictly by **GitHub Star Count (descending)**. 🌟
+Open-source privacy engineering, consent engines, and GRC tools sorted strictly by **GitHub Stars_Count (descending)**. 🌟
 
-| Rank | Project Name & Repository 📦 | GitHub Stars ⭐ | License 📜 | Focus & Description 📝 |
+| Rank | Project Name & Repository 📦 | GitHub_Stars ⭐ | License 📜 | Focus & Description 📝 |
 | :---: | :--- | :---: | :---: | :--- |
 | **1** | **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** | [<img src="https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white" alt="OpenMetadata Stars"/>](https://github.com/open-metadata/OpenMetadata/stargazers) | `Apache-2.0` | **End-to-End Data Governance & PII Classification Platform** — Unified metadata management, data lineage, automated PII tagging, and privacy compliance tracking across data stacks. |
 | **2** | **[DataHub](https://github.com/datahub-project/datahub)** | [<img src="https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white" alt="DataHub Stars"/>](https://github.com/datahub-project/datahub/stargazers) | `Apache-2.0` | **Extensible Data Governance & Privacy Discovery Engine** — Built by LinkedIn; provides metadata search, dataset sensitivity tagging, data ownership tracking, and privacy risk monitoring. |
